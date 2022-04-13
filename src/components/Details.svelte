@@ -2,7 +2,7 @@
     import Timeline from "./Timeline.svelte";
 </script>
 
-<div id="details" class="basic-2" style="padding-top: 3rem;background-image: url(images/l1.png); background-repeat: repeat-x;" >
+<div id="details" class="basic-2" style="padding-top: 3rem;background-image: url(images/l3.png); object-fit: cover;" >
     <img class="decoration-star-2" src="images/decoration-star.svg" alt="alternative">
    
     <div class="container"  >
