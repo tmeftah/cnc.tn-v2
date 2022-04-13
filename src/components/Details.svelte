@@ -15,7 +15,7 @@
                 </div>
                 <div class="row mt-5">
                     {#each Array(8) as _, i}
-                    <div class="col-xs-2 col-sm-3">
+                    <div class="col-3 ">
                         <img class="img-fluid mb-4" src="http://placehold.jp/0f3c6c/ffffff/150x150.png"  alt="alternative" > 
                     </div>
                    
