@@ -128,46 +128,34 @@
                     <h4>Downloads</h4>
                 </div>
                 <div
-                    class="col-12  bg-gradient mb-3"
+                    class="col-12  bg-gradient mb-3 p-2"
                     style="background-color: #fdf7ef;"
                 >
-                    <big
-                        class="mt-2"
-                        style="font-size: 35px; font-weight: 800;"
-                    >
-                        &#8675;
-                    </big>
-                    <span class="text-uppercase">
-                        Technologie ECO-TECH Nesting (PDF-Download 4,2 MB)
-                    </span>
+                    <a href="#" style="text-decoration: none;" class="download">
+                        <div class="text-uppercase ps-5">
+                            Technologie ECO-TECH Nesting (PDF-Download 4,2 MB)
+                        </div>
+                    </a>
                 </div>
                 <div
-                    class="col-12  bg-gradient mb-3"
+                    class="col-12  bg-gradient mb-3 p-2"
                     style="background-color: #fdf7ef;"
                 >
-                    <big
-                        class="mt-2"
-                        style="font-size: 35px; font-weight: 800;"
-                    >
-                        &#8675;
-                    </big>
-                    <span class="text-uppercase">
-                        cnc premium PRO (PDF-Download 1,2 MB)
-                    </span>
+                    <a href="#" style="text-decoration: none;" class="download">
+                        <div class="text-uppercase ps-5">
+                            cnc premium PRO (PDF-Download 1,2 MB)
+                        </div>
+                    </a>
                 </div>
                 <div
-                    class="col-12  bg-gradient mb-3"
+                    class="col-12  bg-gradient mb-3 p-2"
                     style="background-color: #fdf7ef;"
                 >
-                    <big
-                        class="mt-2"
-                        style="font-size: 35px; font-weight: 800;"
-                    >
-                        &#8675;
-                    </big>
-                    <span class="text-uppercase">
-                        iso 9001:2015 Certificate (PDF-Download 1 MB)
-                    </span>
+                    <a href="#" style="text-decoration: none;" class="download">
+                        <div class="text-uppercase ps-5">
+                            iso 9001:2015 Certificate (PDF-Download 1 MB)
+                        </div>
+                    </a>
                 </div>
             </div>
 
@@ -355,5 +343,16 @@
         left: 0;
         position: absolute;
         width: 100%;
+    }
+
+    .download::before {
+        content: '⇣';
+        position: absolute;
+
+        font-size: 25px;
+        font-weight: 600;
+        top: 50%;
+        margin-top: -20px;
+        left: 10px;
     }
 </style>
