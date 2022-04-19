@@ -3,7 +3,9 @@
 	import NavBar from "./components/NavBar.svelte";
 	import Header from "./components/Header.svelte";
 	import Intro from "./components/Intro.svelte";
+	import Application from "./components/Application.svelte";
 	import Details from "./components/Details.svelte";
+	import Specification from "./components/Specification.svelte";
 	import Services from "./components/Services.svelte";
 	import Projects from "./components/Projects.svelte";
 	import Testimonials from "./components/Testimonials.svelte";
@@ -16,20 +18,20 @@
 </script>
 
 <main>
-	<NavBar/>
-	<Header/>
-	<Intro/>
-	<Details/>
-	<Services/>
-	<Projects/>
-	<Testimonials/>
-	<Contact/>
-	<Back/>
-	<Footer/>
-	<CopyRight/>
-	
+    <NavBar />
+    <Header />
+    <Intro />
+    <Details />
+    <Application />
+    <Specification />
+    <Services />
+    <Projects />
+    <Testimonials />
+    <Contact />
+    <Back />
+    <Footer />
+    <CopyRight />
 </main>
 
 <style>
-
 </style>
