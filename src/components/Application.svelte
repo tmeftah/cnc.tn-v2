@@ -15,11 +15,15 @@
                 <h3 style="color: white">Application Examples</h3>
             </div>
 
-            <div class="col-3">
-                <div class="card">
-                    <img src="images/a1.jpg" alt=".." class="card-img-top" />
+            <div class="col-6 col-md-3">
+                <div class="card mb-3">
+                    <img
+                        src="http://placehold.jp/0f3c6c/ffffff/250x250.png"
+                        alt=".."
+                        class="card-img-top"
+                    />
                     <div class="card-body mb-4">
-                        <h5 class="card-title">Pump housing</h5>
+                        <h6 class="card-title">Pump housing</h6>
                     </div>
                     <div
                         style="position: absolute; bottom: -1px;left: -1px; background-color: #959595; border-bottom-left-radius:2px ;"
@@ -31,11 +35,15 @@
                 </div>
             </div>
 
-            <div class="col-3">
-                <div class="card">
-                    <img src="images/a2.jpg" alt=".." class="card-img-top" />
+            <div class="col-6 col-md-3">
+                <div class="card mb-3">
+                    <img
+                        src="http://placehold.jp/0f3c6c/ffffff/250x250.png"
+                        alt=".."
+                        class="card-img-top"
+                    />
                     <div class="card-body mb-4">
-                        <h5 class="card-title">Milling head</h5>
+                        <h6 class="card-title">Milling head</h6>
                     </div>
                     <div
                         style="position: absolute; bottom: -1px;left: -1px; background-color: #959595; border-bottom-left-radius:2px ;"
@@ -47,11 +55,15 @@
                 </div>
             </div>
 
-            <div class="col-3">
-                <div class="card">
-                    <img src="images/a3.jpg" alt=".." class="card-img-top" />
+            <div class="col-6 col-md-3">
+                <div class="card mb-3">
+                    <img
+                        src="http://placehold.jp/0f3c6c/ffffff/250x250.png"
+                        alt=".."
+                        class="card-img-top"
+                    />
                     <div class="card-body  mb-4">
-                        <h5 class="card-title">Hydraulic component</h5>
+                        <h6 class="card-title">Hydraulic part</h6>
                     </div>
                     <div
                         style="position: absolute; bottom: -1px;left: -1px; background-color: #959595; border-bottom-left-radius:2px ;"
@@ -63,11 +75,15 @@
                 </div>
             </div>
 
-            <div class="col-3">
-                <div class="card">
-                    <img src="images/a4.jpg" alt=".." class="card-img-top" />
+            <div class="col-6 col-md-3">
+                <div class="card mb-3">
+                    <img
+                        src="http://placehold.jp/0f3c6c/ffffff/250x250.png"
+                        alt=".."
+                        class="card-img-top"
+                    />
                     <div class="card-body mb-4">
-                        <h5 class="card-title">Belt fastener</h5>
+                        <h6 class="card-title">Belt fastener</h6>
                     </div>
                     <div
                         style="position: absolute; bottom: -1px;left: -1px; background-color: #959595; border-bottom-left-radius:2px ;"
